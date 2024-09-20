@@ -32,8 +32,8 @@ const TaskList = ({ setIsEditing, setTaskToEdit }) => {
           {sorting ? <FontAwesomeIcon icon={faSpinner} spin /> : 'Ordenar por Estatus'}
         </Button>
         <Button className="btn btn-secondary me-2" onClick={() => sortTasks('only_completed')}>
-          {sorting ? <FontAwesomeIcon icon={faSpinner} spin /> : 'Solo por Estatus'}
-        </Button>                
+          {sorting ? <FontAwesomeIcon icon={faSpinner} spin /> : 'Ver por Estatus'}
+        </Button>                      
       </div>
 
       {tasks.length === 0 ? (

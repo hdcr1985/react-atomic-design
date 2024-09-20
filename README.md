@@ -25,5 +25,13 @@ npm install
 npm start
 ```
 
+## Pantallas de la aplicación
 
+<img width="100%" alt="atomic design" src="docs/imagen1.jpg">
+
+## URL del FronEnd
+
+```shell
+http://localhost:3000
+```
 
