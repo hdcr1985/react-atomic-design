@@ -1,4 +1,4 @@
-# Mini Administrador de Tareas en React JS
+# Gestión de Tareas en React JS
 
 Proyecto en React JS con la metodología de diseño Atomic Design
 
@@ -34,4 +34,8 @@ npm start
 ```shell
 http://localhost:3000
 ```
+
+## Clonar el proyecto siguiente para el BackEnd
+
+<a href="https://github.com/hdcr1985/admin-task-backend"> https://github.com/hdcr1985/admin-task-backend</a>
 
